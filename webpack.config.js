@@ -8,7 +8,12 @@ module.exports = (env) => {
         devtool: env["production"] ? false : "eval-source-map",
         // only entry file, include any imported files
         entry: {
-            index: "./src/index.tsx",
+            index: {
+                import: "./src/index.tsx",
+                library: {
+                    type: "umd",
+                },
+            },
         },
         module: {
             rules: [
