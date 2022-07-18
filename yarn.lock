@@ -615,12 +615,11 @@ commander@^7.0.0:
   integrity sha512-QrWXB+ZQSVPmIWIhtEO9H+gwHaMGYiF5ChvoJ+K9ZGHG/sVsa6yiesAD1GC/x46sET00Xlwo1u49RVVVzvcSkw==
 
 compare_view@^1.0.1:
-  version "1.1.0"
-  resolved "https://registry.yarnpkg.com/compare_view/-/compare_view-1.1.0.tgz#faede77f0011fe9f0b0f730d8e217f026ffa951d"
-  integrity sha512-mhAGbdmPNNXuXKmJnv55L2N2dDSalK8luVsuk4POIlehQbjRutlPNLqUlAEWwz6u2PuFY5xsmVjKu5ZEzFAqYA==
+  version "1.2.0"
+  resolved "https://registry.yarnpkg.com/compare_view/-/compare_view-1.2.0.tgz#98c9fefbdc4c8bbefa5aa06074fdc6535ddb4042"
+  integrity sha512-hEwfh9TE4qOccENZjE/A55/KbPEZZcD1HivnI8GiYzrq+Kw9X/r4H/vaapBkuAUhTt/GCg+0E91EBuCNn0jLeQ==
   dependencies:
     react "^18.2.0"
-    react-dom "^18.2.0"
 
 compressible@~2.0.16:
   version "2.0.18"
