@@ -1,4 +1,4 @@
-# compare_view_react_templage
+# compare_view React Example
 React template for using compare_view
 
-See the final website [here](https://octoframes.github.io/compare_view_react_example).
+# [Final Website](https://octoframes.github.io/compare_view_react_example).
